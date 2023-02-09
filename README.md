@@ -1,6 +1,6 @@
-# Source Codes
+# Source Code
 
-We provide the source codes of the unfolded RNN model for predicting the learning curve of students. The settings of the unfolded RNN model are given below:
+We provide the source code of the unfolded RNN model for predicting the learning curve of students. The settings of the unfolded RNN model are given below:
 
 1. Hidden unit: 32.
 2. Epoch: 100.

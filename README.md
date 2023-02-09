@@ -7,3 +7,5 @@ We provide the source codes of the unfolded RNN model for predicting the learnin
 3. Batch size: 1.
 4. Optimizer: stochastic gradient descent.
 5. Activation function: ReLU.
+
+The data was divided into three groups: training data (70%), validation data (15%), and test data (15%). 
